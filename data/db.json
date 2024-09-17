@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "SmartWatch Pro",
+      "description": "Advanced smartwatch with heart rate monitoring, GPS, and 7-day battery life.",
+      "image": "",
+      "value": { "min": 199, "max": 299 }
+    },
+    {
+      "id": 2,
+      "product_name": "Wireless Noise-Canceling Headphones",
+      "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+      "image": "",
+      "value": { "min": 249, "max": 349 }
+    },
+    {
+      "id": 3,
+      "product_name": "4K Ultra HD Drone",
+      "description": "Foldable drone with 4K camera, 30-minute flight time, and obstacle avoidance.",
+      "image": "",
+      "value": { "min": 799, "max": 999 }
+    },
+    {
+      "id": 4,
+      "product_name": "Smart Home Hub",
+      "description": "Central control unit for smart home devices with voice assistant integration.",
+      "image": "",
+      "value": { "min": 129, "max": 199 }
+    },
+    {
+      "id": 5,
+      "product_name": "Portable Solar Charger",
+      "description": "Foldable solar panel charger with multiple USB ports for outdoor adventures.",
+      "image": "",
+      "value": { "min": 79, "max": 129 }
+    },
+    {
+      "id": 6,
+      "product_name": "Virtual Reality Headset",
+      "description": "High-resolution VR headset with motion controllers and built-in speakers.",
+      "image": "",
+      "value": { "min": 399, "max": 599 }
+    },
+    {
+      "id": 7,
+      "product_name": "Smart Door Lock",
+      "description": "Wi-Fi enabled door lock with fingerprint scanner and mobile app control.",
+      "image": "",
+      "value": { "min": 179, "max": 249 }
+    },
+    {
+      "id": 8,
+      "product_name": "Wireless Earbuds",
+      "description": "True wireless earbuds with touch controls and 24-hour total battery life.",
+      "image": "",
+      "value": { "min": 99, "max": 159 }
+    },
+    {
+      "id": 9,
+      "product_name": "Robotic Vacuum Cleaner",
+      "description": "Smart robot vacuum with mapping technology and automatic dirt disposal.",
+      "image": "",
+      "value": { "min": 499, "max": 699 }
+    },
+    {
+      "id": 10,
+      "product_name": "Portable 4K Projector",
+      "description": "Compact 4K projector with built-in speakers and smart TV capabilities.",
+      "image": "",
+      "value": { "min": 799, "max": 999 }
+    },
+    {
+      "id": 11,
+      "product_name": "Smart Kitchen Scale",
+      "description": "Bluetooth-enabled kitchen scale with nutritional information and recipe app.",
+      "image": "",
+      "value": { "min": 59, "max": 89 }
+    },
+    {
+      "id": 12,
+      "product_name": "360-Degree Security Camera",
+      "description": "Wireless security camera with 360-degree view, night vision, and two-way audio.",
+      "image": "",
+      "value": { "min": 149, "max": 199 }
+    },
+    {
+      "id": 13,
+      "product_name": "Smart Thermostat",
+      "description": "Energy-saving thermostat with learning capabilities and smartphone control.",
+      "image": "",
+      "value": { "min": 199, "max": 249 }
+    },
+    {
+      "id": 14,
+      "product_name": "Fitness Tracker Ring",
+      "description": "Sleek ring-shaped fitness tracker with sleep monitoring and heart rate sensor.",
+      "image": "",
+      "value": { "min": 229, "max": 299 }
+    },
+    {
+      "id": 15,
+      "product_name": "Portable Power Station",
+      "description": "High-capacity power station with AC outlets, USB ports, and solar charging capability.",
+      "image": "",
+      "value": { "min": 599, "max": 799 }
+    }
+  ],
+  "transactions": [
+    {
+      "id": "083302"
+    }
+  ]
+}
